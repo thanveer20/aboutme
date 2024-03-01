@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Mulla Mohammed Thanveer, a recent BTech gradua
 
 - 📧 Email: thanveertannu027@gmail.com
 - 📞 Phone: +91 6305014882
-- LinkedIn: [Thanveer Tannu](#) (Please replace `#` with your LinkedIn profile link)
+- LinkedIn: [Thanveer Tannu](https://linkedin.com/in/thanveer-tannu-36316b221) 
 
 ### 😄 Pronouns: He/Him
 
